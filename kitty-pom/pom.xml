@@ -45,7 +45,7 @@
 		<module>../kitty-consumer</module>
 		<module>../kitty-producer</module>
 		<module>../kitty-producer2</module>
-		<module>../kitty-conifg</module>
+		<module>../kitty-config</module>
 		<module>../kitty-hystrix</module>
 		<module>../kitty-zuul</module>
 	</modules>

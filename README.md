@@ -1,41 +1,5 @@
 # kitty
 
-### 在线演示
-
-演示地址：http://139.196.87.48:9002/kitty
-
-用户名：admin 密码：admin
-
-温馨提示：
-有在演示环境删除数据的童鞋们，如果可以的话，麻烦动动小指，点击头像面板，
-选择 -> 备份还原 帮忙恢复到系统默认备份数据，方便后来的童鞋查看，谢谢啦。
-
-### 技术交流
-
-为了方便大家提问和技术交流，整了个QQ群，欢迎童鞋们加入。
-
-QQ技术交流群： 528818161
-
-### 博客教程
-
-本人技术博客提供同步系列文章教程, 讲解了Kitty从零开始搭建的全过程：
-
-[Vue.js + Element UI 实现权限管理系统 前端篇](https://www.cnblogs.com/xifengxiaoma/p/9533018.html)
-
-[Spring Boot + Spring Cloud 实现权限管理系统 后端篇](https://www.cnblogs.com/xifengxiaoma/p/9474953.html)
-
-### 分支说明
-
-- master: 主推版本分支，支持分布式，服务治理（Spring Security + Spring Cloud）
-
-- dev: 开发分支，适时合并到master分支，支持分布式，服务治理（Spring Security + Spring Cloud）
-
-- shiro-cloud: 基于Spring Boot + Shiro + Spring Cloud，支持分布式、服务治理
-
-- shiro: 基于Spring Boot + Shiro，不包含 Spring Cloud，部署环境稍微简单一点
-
-- idea: IDEA项目结构代码，使用IDEA作为开发IDE的朋友可以使用此分支快速导入IDEA
-
 ### 项目介绍
 
 - Kitty是基于Spring Boot、Spring Cloud、Vue、Element实现的Java快速开发平台。
